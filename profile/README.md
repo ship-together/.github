@@ -86,6 +86,7 @@ Getting started is simple.
 Follow our GitHub organization and explore our repositories.
 
 👉[![Explore GitHub Org](https://img.shields.io/badge/Explore%20GitHub-ship--together-181717?style=for-the-badge&logo=github)](https://github.com/ship-together)
+
 **2. Join the Discord Community**
 
 Hop into our Discord server to chat, introduce yourself, pitch ideas, and hop into voice/co-working sessions.
