@@ -130,7 +130,7 @@ Everyone has something valuable to contribute.
 | 📂 Repositories | [Explore Projects](https://github.com/orgs/ship-together/repositories) |
 | 💬 Discussions | [Join Discussions](https://github.com/orgs/ship-together/discussions) |
 | 👥 Members | [Community Members](https://github.com/orgs/ship-together/people) |
-| 📩 Invitation | [Request to Join](https://github.com/ship-together/.github/issues/new?title=Invite%20Me) |
+| 📩 Invitation | [Request to Join](https://github.com/ship-together/community-builds/issues/new?labels=invite-request&template=invitation.yml&title=Please+invite+me+to+the+ship-together+GitHub+Organization) |
 
 ---
 
