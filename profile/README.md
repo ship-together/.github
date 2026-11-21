@@ -85,13 +85,12 @@ Getting started is simple.
 
 Follow our GitHub organization and explore our repositories.
 
-👉 [https://github.com/ship-together](https://github.com/ship-together)
-
+👉[![Explore GitHub Org](https://img.shields.io/badge/Explore%20GitHub-ship--together-181717?style=for-the-badge&logo=github)](https://github.com/ship-together)
 **2. Join the Discord Community**
 
 Hop into our Discord server to chat, introduce yourself, pitch ideas, and hop into voice/co-working sessions.
 
-👉 [https://discord.com/invite/NVYyr9ppD](https://discord.com/invite/NVYyr9ppD)
+👉 [![Join Discord Server](https://img.shields.io/badge/Join%20Discord-ship--together-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/invite/NVYyr9ppD)
 
 **3. Request a GitHub Invitation**
 
