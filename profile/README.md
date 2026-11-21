@@ -7,6 +7,7 @@
 **A community where developers meet, collaborate, make friends, and turn ideas into real projects.**
 
 [![GitHub Organization](https://img.shields.io/badge/GitHub-ship--together-181717?style=for-the-badge&logo=github)](https://github.com/ship-together)
+[![Discord](https://img.shields.io/badge/Discord-Join%20Server-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/invite/NVYyr9ppD)
 [![Community](https://img.shields.io/badge/Community-Friends%20%26%20Builders-7c3aed?style=for-the-badge)](https://github.com/ship-together)
 [![Membership](https://img.shields.io/badge/Membership-Free%20%26%20Open-10b981?style=for-the-badge)](https://github.com/ship-together)
 
@@ -86,21 +87,27 @@ Follow our GitHub organization and explore our repositories.
 
 👉 [https://github.com/ship-together](https://github.com/ship-together)
 
-**2. Request an Invitation**
+**2. Join the Discord Community**
+
+Hop into our Discord server to chat, introduce yourself, pitch ideas, and hop into voice/co-working sessions.
+
+👉 [https://discord.com/invite/NVYyr9ppD](https://discord.com/invite/NVYyr9ppD)
+
+**3. Request a GitHub Invitation**
 
 Open an issue titled `Invite Me` and include your GitHub username.
 
 Our organization team can review your request and send an invitation.
 
-**3. Introduce Yourself**
+**4. Introduce Yourself**
 
 Tell the community a little about yourself, what you build, and what technologies interest you.
 
-**4. Find Something to Build**
+**5. Find Something to Build**
 
 Explore active projects, join discussions, pick up an issue, or pitch an idea.
 
-**5. Build & Ship Together**
+**6. Build & Ship Together**
 
 Collaborate, contribute, review code, and turn ideas into something real.
 
@@ -127,6 +134,7 @@ Everyone has something valuable to contribute.
 | Resource | Link |
 |---|---|
 | 🏠 GitHub Organization | [ship-together](https://github.com/ship-together) |
+| 💬 Discord Server | [Join ship-together](https://discord.com/invite/NVYyr9ppD) |
 | 📂 Repositories | [Explore Projects](https://github.com/orgs/ship-together/repositories) |
 | 💬 Discussions | [Join Discussions](https://github.com/orgs/ship-together/discussions) |
 | 👥 Members | [Community Members](https://github.com/orgs/ship-together/people) |
